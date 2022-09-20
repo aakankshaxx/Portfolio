@@ -1,0 +1,87 @@
+{
+  "main": {
+    "name": "Aakanksha Pal",
+    "occupation": "2nd year B.Tech CSE student",
+    "description": "who likes to code",
+    "image": "profile.jpg",
+    "bio": "Hey there! I am Aakanksha! I've been coding for over 2 years. I'm open to learning more and diving deeper into the world of Computer Science. I also enjoy reading manga and watching anime. I am a hardcore reader and love romance novels.",
+    "contactmessage": "Get in touch with me!",
+    "email": "aakankshapal1@gmail.com",
+    "phone": "+91 8720971645",
+    "address": {
+      "street": "M-Block Girls' Hostel, SRM University",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "603 203"
+    },
+    "resumedownload": " ",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aakanksha-pal-582a52238/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/aakanksha.pal/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/aakankshaxx",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "pinterest",
+        "url": "https://in.pinterest.com/aakankshapal1/",
+        "className": "fa fa-pinterest"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Apeejay School, Nerul, Navi Mumbai",
+        "degree": "PCM (with CS)",
+        "graduated": "2020-2021"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "20%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "C/C++",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "10%"
+      },
+      {
+        "name": "Web Development",
+        "level": "30%"
+      },
+      {
+        "name": "SQL",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "BLOG",
+        "category": "",
+        "image": "blog.jpg",
+        "url": "https://github.com/aakankshaxx/Blog"
+      }
+    ]
+  }
+}
