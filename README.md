@@ -3,7 +3,7 @@ https://darling-kataifi-a69c9e.netlify.app/
 
 # Screenshots
 
-![a](https://user-images.githubusercontent.com/104255388/191326448-2f56b334-6025-4752-b32f-786b6eef49aa.jpg)
+![image](https://user-images.githubusercontent.com/104255388/200927086-0d15a38e-dbf6-4f8e-be51-4ddf4dfbe9a5.png)
 
 ![b](https://user-images.githubusercontent.com/104255388/191326456-48f4c038-1688-4f58-9150-b275e38f4786.jpg)
 
