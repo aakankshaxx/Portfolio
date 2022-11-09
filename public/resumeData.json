@@ -83,5 +83,13 @@
         "url": "https://github.com/aakankshaxx/Blog"
       }
     ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Something good about me >_<",
+        "user": "Me"
+      }
+    ]
   }
 }
